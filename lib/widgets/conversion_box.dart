@@ -114,6 +114,7 @@ class _ConversionBoxState extends State<ConversionBox> {
         } else {
           result = value;
         }
+
         break;
 
       // Area conversions
